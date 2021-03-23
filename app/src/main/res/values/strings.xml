@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Lab01_202101</string>
+    <string name="saludo">Bienvenidos a la UAC!</string>
+    <string name="login">Login</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">contraseña</string>
+    <string name="botton_save">cambiar saludo</string>
+    <string name="Creator">Miguel Aurela</string>
+    <string name="user">Usuario</string>
+    <string name="IntoUser">Introducir Usuario</string>
+    <string name="pass">Hola</string>
+    <string name="btn_matematicas">Matematicas</string>
+    <string name="btn_fisica">Fisica</string>
+    <string name="menu_save">Guardar</string>
+    <string name="menu_Close">Cerrar sesión</string>
+    <string name="menu_imagen">Imagen</string>
+    <string name="menu_pdf">PDF</string>
+    <string name="RemenberDatas">Recordar mis datos</string>
+    <string name="TC">Terminos y condiciones</string>
+    <string name="Continue">Continuar</string>
+    <string name="Name">Nombre</string>
+    <string name="Lastname">Apellido</string>
+    <string name="email">Correo</string>
+    <string name="register">Registro</string>
+    <string name="registrerIt">Registrarse</string>
+    <string name="DeletePrefe">Borrar preferencias</string>
+
+</resources>
